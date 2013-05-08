@@ -1,8 +1,8 @@
 # ScopeStatus
 
-ScopeStatus adds the scope of the source/text at your current cursor position. This is useful when you're developing syntaxes and other plugins.
+ScopeStatus is a Sublime Text 2 plugin for displaying the scope at the current cursor position in the status bar.
 
-[[/screens/scope-in-status-bar.png]]
+![The scope displayed in the Status Bar](https://raw.github.com/willurd/ScopeStatus/master/screens/scope-in-status-bar.png)
 
 This setting is applied *per file*.
 
@@ -23,18 +23,18 @@ Manually:
 
 When the scope is not shown in the status bar, you can show it via the Command Palette:
 
-[[/screens/show-command-palette.png]]
+![Showing the scope via the Command Palette](https://raw.github.com/willurd/ScopeStatus/master/screens/show-command-palette.png)
 
 or the Tools menu:
 
-[[/screens/show-tools-menu.png]]
+![Showing the scope via the Tools menu](https://raw.github.com/willurd/ScopeStatus/master/screens/show-tools-menu.png)
 
 ## Hiding the scope
 
 When the scope is shown in the status bar, you can hide it via the Command Palette:
 
-[[/screens/hide-command-palette.png]]
+![Hiding the scope via the Command Palette](https://raw.github.com/willurd/ScopeStatus/master/screens/hide-command-palette.png)
 
 or the Tools menu:
 
-[[/screens/hide-tools-menu.png]]
+![Hiding the scope via the Tools menu](https://raw.github.com/willurd/ScopeStatus/master/screens/hide-tools-menu.png)
