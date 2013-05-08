@@ -1,0 +1,10 @@
+[
+	{
+		"caption": "Scope: Show in Status Bar",
+		"command": "show_scope_in_status_bar"
+	},
+	{
+		"caption": "Scope: Remove from Status Bar",
+		"command": "hide_scope_in_status_bar"
+	}
+]

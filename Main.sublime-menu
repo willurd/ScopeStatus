@@ -1,0 +1,11 @@
+[
+	{
+		"id": "tools",
+		"children": [
+			{
+				"caption": "Show Scope in Status Bar",
+				"command": "toggle_scope_in_status_bar"
+			}
+		]
+	}
+]
