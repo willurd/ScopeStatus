@@ -1,6 +1,6 @@
 # ScopeStatus
 
-ScopeStatus is a Sublime Text 2 plugin for displaying the scope at the current cursor position in the status bar.
+ScopeStatus is a Sublime Text 2 plugin for displaying the syntax scope at the current cursor position in the status bar.
 
 ![The scope displayed in the Status Bar](https://raw.github.com/willurd/ScopeStatus/master/screens/scope-in-status-bar.png)
 
